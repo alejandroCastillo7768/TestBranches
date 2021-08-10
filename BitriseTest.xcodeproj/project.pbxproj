@@ -55,9 +55,9 @@
 			isa = PBXGroup;
 			children = (
 				D5C9960326C1A5BC00A4B97D /* Assets.xcassets */,
-				D5C9960526C1A5BC00A4B97D /* LaunchScreen.storyboard */,
 				D5C9960826C1A5BC00A4B97D /* Info.plist */,
 				D5C995FA26C1A5B800A4B97D /* AppDelegate.swift */,
+				D5C9960526C1A5BC00A4B97D /* LaunchScreen.storyboard */,
 				D5C9960E26C1A69900A4B97D /* Main */,
 			);
 			path = BitriseTest;
